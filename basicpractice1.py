@@ -1,5 +1,5 @@
-
-print("Eat Samosa")
+Snacks=input("Enter the snacks")
+print("Snacks entered is =",Snacks)
 num = int (input("Enter  the  number"))
 n=num
 for i in range(1,300):
