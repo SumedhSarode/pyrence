@@ -1,6 +1,6 @@
 
-
-num = int (input(Enter  the  number))
+print("Eat Samosa")
+num = int (input("Enter  the  number"))
 n=num
 for i in range(1,300):
     d1=n%10
